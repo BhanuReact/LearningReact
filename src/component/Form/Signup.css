@@ -1,0 +1,13 @@
+.show{
+    display: block;
+    position: absolute;
+    right: 26%;
+    top: 74%;
+}
+.signup{
+    position: absolute;
+    z-index: 9999;
+}
+
+  
+
