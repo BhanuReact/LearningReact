@@ -34,6 +34,11 @@ const Navbar = (props) => {
                   Image Gallary
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/crud">
+                  Crud
+                </Link>
+              </li>
               <li className="nav-item dropdown">
                 <a
                   className="nav-link dropdown-toggle"
